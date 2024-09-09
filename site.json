@@ -93,6 +93,14 @@
             "type": "image/jpeg",
             "name": "webcam-toy-photo18.jpg",
             "size": 68942
+          },
+          {
+            "path": "[object Object]download-(1).jfif",
+            "fullUrl": "//home/prplrawr/tulip/files/download-(1).jfif",
+            "url": "files/download-(1).jfif",
+            "type": null,
+            "name": "download-(1).jfif",
+            "size": 56039
           }
         ]
       }
