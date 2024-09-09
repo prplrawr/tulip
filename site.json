@@ -101,6 +101,14 @@
             "type": null,
             "name": "download-(1).jfif",
             "size": 56039
+          },
+          {
+            "path": "[object Object]a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "fullUrl": "//home/prplrawr/tulip/files/a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "url": "files/a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "type": "image/jpeg",
+            "name": "a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "size": 7321
           }
         ]
       }
