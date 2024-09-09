@@ -70,7 +70,17 @@
         "readtime": 1,
         "videos": {},
         "images": {},
-        "status": ""
+        "status": "",
+        "files": [
+          {
+            "path": "[object Object]download.jfif",
+            "fullUrl": "//home/prplrawr/tulip/files/download.jfif",
+            "url": "files/download.jfif",
+            "type": null,
+            "name": "download.jfif",
+            "size": 79824
+          }
+        ]
       }
     },
     {
