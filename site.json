@@ -5,7 +5,12 @@
   "description": "own course",
   "license": "by-sa",
   "metadata": {
-    "author": {},
+    "author": {
+      "image": "",
+      "name": null,
+      "email": null,
+      "socialLink": null
+    },
     "site": {
       "name": "haxtheweb",
       "logo": "assets/banner.jpg",
@@ -18,23 +23,24 @@
         "gaID": null
       },
       "created": 1698074988,
-      "updated": 1723216821,
+      "updated": 1725848914,
       "git": {
         "vendor": "github",
         "branch": "gh-pages"
       },
       "version": "9.0.5",
       "static": {},
-      "tags": "website, haxtheweb, hax"
+      "tags": "website, haxtheweb, hax",
+      "domain": null
     },
     "theme": {
-      "element": "clean-one",
-      "path": "@lrnwebcomponents/clean-one/clean-one.js",
-      "name": "Clean course theme",
-      "thumbnail": "build/es6/node_modules/@lrnwebcomponents/app-hax/lib/assets/images/BlueStyle.svg",
+      "element": "polaris-invent-theme",
+      "path": "@haxtheweb/polaris-theme/lib/polaris-invent-theme.js",
+      "name": "Polaris - Invent",
+      "thumbnail": "build/es6/node_modules/@haxtheweb/app-hax/lib/assets/images/PartyStyle.svg",
       "variables": {
-        "image": "",
-        "imageAlt": "",
+        "image": "files/webcam-toy-photo18.jpg",
+        "imageAlt": "Aliiaa",
         "imageLink": "",
         "hexCode": "#aeff00",
         "cssVariable": "--simple-colors-default-theme-deep-purple-7",
@@ -59,11 +65,11 @@
       "slug": "welcome",
       "order": 0,
       "parent": null,
-      "title": "Welcome",
+      "title": "Haiii Seng~",
       "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
       "metadata": {
         "created": 1689962391,
-        "updated": 1725848362,
+        "updated": 1725850957,
         "published": true,
         "hideInMenu": false,
         "locked": false,
@@ -79,6 +85,30 @@
             "type": null,
             "name": "download.jfif",
             "size": 79824
+          },
+          {
+            "path": "[object Object]webcam-toy-photo18.jpg",
+            "fullUrl": "//home/prplrawr/tulip/files/webcam-toy-photo18.jpg",
+            "url": "files/webcam-toy-photo18.jpg",
+            "type": "image/jpeg",
+            "name": "webcam-toy-photo18.jpg",
+            "size": 68942
+          },
+          {
+            "path": "[object Object]download-(1).jfif",
+            "fullUrl": "//home/prplrawr/tulip/files/download-(1).jfif",
+            "url": "files/download-(1).jfif",
+            "type": null,
+            "name": "download-(1).jfif",
+            "size": 56039
+          },
+          {
+            "path": "[object Object]a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "fullUrl": "//home/prplrawr/tulip/files/a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "url": "files/a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "type": "image/jpeg",
+            "name": "a42227c18af0b9ee95d6d5b77356550e.jpg",
+            "size": 7321
           }
         ]
       }
@@ -90,11 +120,11 @@
       "slug": "page",
       "order": 1,
       "parent": null,
-      "title": "Page",
+      "title": "Perkenalan",
       "description": "\n\n",
       "metadata": {
         "created": 1723216766,
-        "updated": 1723217275,
+        "updated": 1725851192,
         "images": {},
         "videos": {},
         "published": true,
